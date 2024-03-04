@@ -1,0 +1,48 @@
+#container{
+    width: 350px;
+    background-color: azure;
+    margin: 50px auto;
+    border: 1px solid brown;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+#wrapper{
+    height: 50px;
+    width: 350px;
+    background-color: black;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+
+}
+#result{
+    height: 130px;
+    width: 350px;
+    background-color:#DEE0E6;
+}
+#input{
+    height: 70px;
+    width: 345px;
+    background-color:white;
+    border: none;
+
+}
+#button{
+    width: 350px;
+    background-color:whitesmoke;
+}
+button{
+    height: 40px;
+    width: 48px;
+    border-radius: 5px;
+    margin: 3px;
+    background-color: white;
+}
+#calculate{
+    height: 40px;
+    width: 90px;
+    border-radius: 3px;
+    margin-left: 8px;
+    margin-top: 5px;
+    background-color: green;
+    color: white;
+}
